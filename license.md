@@ -158,4 +158,4 @@ Most "game does not boot" reports are one of those two.
 
 ---
 
-*Nintendo Switch Emulator · Updated 2026-10-28 · Shared under the MIT License*
+*Nintendo Switch Emulator · Updated 2026-10-29 · Shared under the MIT License*
